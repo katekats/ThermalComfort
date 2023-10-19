@@ -4,6 +4,9 @@ The project is about predicting the thermal comfort of senior people. For runnin
 
 For Bash: 
 
-python3 -m venv .venv
-source .venv/bin/activate
+python3 -m venv .venv  
+
+source .venv/bin/activate  
+
 pip install -r requirements.txt
+
