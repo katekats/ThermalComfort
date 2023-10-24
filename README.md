@@ -24,12 +24,12 @@ The dataset is included in the folder "Winter_thermal_comfort_dataset" where Bed
 
 **Preprocessing the temperature sequences**
 
-For transforming the living room and bedroom temperature time series in the right format to be used by the LSTM model we use the Thermal_comfort_elderly.ipynb.
+For transforming the living room and bedroom temperature time series in the right format to be used by the LSTM model we use the Thermal_Comfort_preprocessing.ipynb.
 
 Resulting Sequences After the preprocessing we create seperated csv files per month and year for 11/2016, 12/2016, 01/2017, 02/2017, 03/2017, 12/2017, 01/2018, 02/2018, 03/2018. These files include the time series for each House ID for the bedroom and living room for the specific month and year. The last value for each time series has the TSV value (if there is one), while living room and bedroom teperature time series has the same TSV value as a last value.
 
 **LSTM training and inference**
 
-The file thermal_elderly_LSTM.ipynb has the trained model and the inference results.
+The file Thermal_Comfort_LSTM.ipynb has the trained model and the inference results.
 
 
