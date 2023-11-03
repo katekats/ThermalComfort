@@ -1,5 +1,5 @@
 # ThermalComfort
-
+This repository includes the BiLSTM-based approach for the paper: "K. Katsarou, C. Ounoughi, A. Mouakher and C. Nicolle, "STCMS: A Smart Thermal Comfort Monitor For Senior People," 2020 IEEE 29th International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE), Bayonne, France, 2020, pp. 187-192, doi: 10.1109/WETICE49692.2020.00044".
 ## Getting Started
 The project is about predicting the thermal comfort of senior people. 
 For running the framework, this work recommends creating a new virtual environment which uses the python version 3.8.8
