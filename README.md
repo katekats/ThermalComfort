@@ -30,6 +30,6 @@ Resulting Sequences After the preprocessing we create seperated csv files per mo
 
 **LSTM training and inference**
 
-The file Thermal_Comfort_LSTM.ipynb has the trained model and the inference results.
+The file: Thermal_Comfort_LSTM.ipynb has the trained model and the inference results.
 
 
